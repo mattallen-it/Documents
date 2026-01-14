@@ -1,3 +1,4 @@
-# Project Title
+# Git & GitHub Initial Setup
 
-Initial project documentation.
+This repository documents initial Git installation, configuration, and GitHub publishing from VS Code on Windows.
+
